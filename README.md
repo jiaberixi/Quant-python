@@ -1,5 +1,7 @@
 # Quant-python
 
 ## introduction
-These are programs I'v written while learning python. The implementation is in Jupyter notebook.
+This project is a collection of short python programs I wrote during bootcamp.
+
 ## python basics
+We learned about python datatypes,if-elif-else conditionals, for and while loops, lists and tuples, and list comprehensions.
